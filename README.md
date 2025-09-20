@@ -70,7 +70,7 @@ During the development of this project, I gained experience in:
 
 ## 📄 License
 
-This project is for educational purposes only and is part of the 42 Common Core curriculum.
+This project is for educational purposes only and is part of the 42 Common Core curriculum. [42 Common Core curriculum](https://www.42network.org/),
 
 ---
 
